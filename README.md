@@ -1,6 +1,4 @@
-Here’s a **professional README.md** you can directly paste into your GitHub repo (clean, structured, and honest):
 
----
 
 # 🩺 Pneumonia Detection from Chest X-ray using Deep Learning
 
